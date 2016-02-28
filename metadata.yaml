@@ -1,0 +1,29 @@
+_repo: Die-Juden-Ein-Lustspiel-in-einem-Aufzuge-verfertiget-im-Jahre-1749_9110
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf:
+- One Act Plays
+- DE Drama
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9110'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Comedies'
+title: 'Die Juden
+
+  Ein Lustspiel in einem Aufzuge verfertiget im Jahre 1749.'
+url: http://www.gutenberg.org/ebooks/9110
